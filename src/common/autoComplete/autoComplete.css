@@ -1,0 +1,26 @@
+.c-autoComplete {
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    z-index: 2;
+    max-height: 200px;
+    overflow-y: auto;
+
+    li {
+      padding: 10px 15px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      text-align: left;
+
+      &:hover {
+        background-color: #f8f9fa;
+      }
+    }
+  }
+}

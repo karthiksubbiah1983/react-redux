@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Robowto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+input[type="text"],
+input[type="date"] {
+  width: 100%;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  padding: 10px 15px;
+  line-height: 1.5;
+  cursor: pointer;
+  text-align: left;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+input[type="submit"] {
+  border: none;
+  color: #ffffff;
+  background-color: #032c85;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 20px 0;
+  line-height: 1.5;
+}
+
+input[type="submit"]:disabled {
+  border: none;
+  color: #b1b1b1;
+  background-color: #777777;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 20px 0;
+  line-height: 1.5;
+}
+
+label {
+  font-size: 16px;
+  font-weight: 400;
+  color: #495057;
+  margin: 20px 0 5px 0;
+  display: block;
+  text-align: left;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "posts": [
+    {
+      "id": "3e86",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-27",
+      "optedCountry": [
+        "India",
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+      ]
+    },
+    {
+      "id": "2e4e",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "India",
+      "travelDate": "2024-02-20",
+      "optedCountry": [
+        "India",
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+      ]
+    },
+    {
+      "id": "c48e",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-01-31",
+      "optedCountry": [
+        "India",
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+      ]
+    },
+    {
+      "id": "def9",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-01-31",
+      "optedCountry": [
+        "India"
+      ]
+    },
+    {
+      "id": "a6b4",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "Thailand",
+      "travelDate": "2024-02-21",
+      "optedCountry": [
+        "India",
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+      ]
+    },
+    {
+      "id": "4ef3",
+      "fname": "Karthik",
+      "lname": "Archana",
+      "country": "Thailand",
+      "travelDate": "2024-02-13",
+      "optedCountry": [
+        "India",
+        "Australia"
+      ]
+    },
+    {
+      "id": "5492",
+      "fname": "Dhana",
+      "lname": "Jill",
+      "country": "Germany",
+      "travelDate": "2024-02-27",
+      "optedCountry": [
+        "UK"
+      ]
+    },
+    {
+      "id": "da7a",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United States",
+      "travelDate": "2024-02-27",
+      "optedCountry": [
+        "UK"
+      ]
+    },
+    {
+      "id": "93af",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-27",
+      "optedCountry": [
+        "USA",
+        "UK",
+        "Canada"
+      ]
+    },
+    {
+      "id": "05fc",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-24",
+      "optedCountry": [
+        "India",
+        "USA",
+        "UK"
+      ]
+    },
+    {
+      "id": "258d",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-20",
+      "optedCountry": [
+        "India",
+        "USA"
+      ]
+    },
+    {
+      "id": "2a6f",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-20",
+      "optedCountry": [
+        "India"
+      ]
+    },
+    {
+      "id": "5718",
+      "fname": "Karthik",
+      "lname": "Jill",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-13",
+      "optedCountry": [
+        "Thailand",
+        "Canada",
+        "India"
+      ]
+    },
+    {
+      "id": "1519",
+      "fname": "Archana",
+      "lname": "Jill",
+      "country": "India",
+      "travelDate": "2024-02-13",
+      "optedCountry": [
+        "Mexico"
+      ]
+    },
+    {
+      "id": "c507",
+      "fname": "Archana",
+      "lname": "Jill",
+      "country": "United States",
+      "travelDate": "2024-02-13",
+      "optedCountry": [
+        "Mexico",
+        "Thailand",
+        "Canada"
+      ]
+    },
+    {
+      "id": "934d",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "India",
+      "travelDate": "2024-02-20",
+      "optedCountry": [
+        "India",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "90e1",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-20",
+      "optedCountry": []
+    },
+    {
+      "id": "2c9c",
+      "fname": "Dhana",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-20",
+      "optedCountry": [
+        "India"
+      ]
+    },
+    {
+      "id": "270a",
+      "fname": "Dhana",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-20",
+      "optedCountry": [
+        "Germany"
+      ]
+    },
+    {
+      "id": "71b1",
+      "fname": "Dhana",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-20",
+      "optedCountry": [
+        "Mexico",
+        "Canada",
+        "Thailand",
+        "India"
+      ]
+    },
+    {
+      "id": "6607",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-21",
+      "optedCountry": [
+        "Mexico",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "032f",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "Thailand",
+      "travelDate": "2024-02-21",
+      "optedCountry": [
+        "Mexico"
+      ]
+    },
+    {
+      "id": "8e57",
+      "fname": "Karthik",
+      "lname": "Subbiah",
+      "country": "Thailand",
+      "travelDate": "2024-02-21",
+      "optedCountry": [
+        "United States",
+        "United Kingdom",
+        "Germany",
+        "India",
+        "Canada",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "5a4b",
+      "fname": "Dhana",
+      "lname": "Subbiah",
+      "country": "United Kingdom",
+      "travelDate": "2024-02-20",
+      "optedCountry": [
+        "United States",
+        "Mexico"
+      ]
+    }
+  ]
+}

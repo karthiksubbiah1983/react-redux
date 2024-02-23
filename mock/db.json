@@ -1,0 +1,16 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "country": [
+        "United States",
+        "United Kingdom",
+        "Germany",
+        "India",
+        "Canada",
+        "Thailand",
+        "Mexico"
+      ]
+    }
+  ]
+}
